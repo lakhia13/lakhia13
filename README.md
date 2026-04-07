@@ -1,8 +1,9 @@
 # 😎️ Hi!
 I am currently tinkering with an eclectic collection of AI projects. I do what I do because I am interested in difficult problems.
 
+```
 "Use your little grey cells, mon ami!" - Hercule Poirot 
-
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshav-lakhia) 
